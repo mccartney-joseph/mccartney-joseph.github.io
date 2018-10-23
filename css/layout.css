@@ -353,6 +353,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
+.indent {
+    display: inline-block;
+    text-indent: 25px;
+}
 .wordpress {
   	width: 50%;
   	-moz-animation: wordpress 2s ease;
